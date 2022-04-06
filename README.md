@@ -10,7 +10,6 @@
 | source code is **private**          | extra Step    |          
 
 ## Interpreted 
-
 | Pros     | Cons |                                    
 | ----------- | ----------- |                               
 | cross-Platform     | interpreted required      |     
