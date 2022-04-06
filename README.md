@@ -2,14 +2,14 @@
 ## Week challenges (Tuesday)
 
 ### Explanation About Interpreted And Compiled Programming Languages
-Computers don't speak English or Spanish, they speak **Machine Code**. Machine code is a computer programming language comprising binary instructinos which computers respond directly to, It's written in machine language. Therefore, a machine i.e., a computer, can execute it without any translation or conversion.
+Computers don't speak English or Spanish, they speak **Machine Code**. Machine code is a computer programming language comprising binary instructins which computers respond to directly, It's written in machine language. Therefore, a machine i.e., a computer, can execute it without any translation or conversion.
 
 So then, How do computers read the code we write in a programming language? 
-If we gave computers the text of the logic and instructions we want to execute with a set program, the computer would have no way to read it and execute it. 
+If we gave computers the text of the logic and instructions we want to execute with a set program, the computer wouldn't have a way to read it and execute it. 
 #### Introducing Interpreted and Compiled Programming Languages 
 A programming language allows us to translate the abstract `1 & 0's / Binary` into something humans can understand. 
 
-###Two types of languages 
+### Two types of languages 
 1. High-Level
 Ex: Java, Javascript, Python, C# and many more.
 Upside: Easier for us to understand the syntax and write code.
@@ -53,8 +53,14 @@ Ex: Javascript interpreted into the web browser
 | easier to debug         | source code is **public**   |         
 
 
+Compiled: C, C++, Objective-C
+Interpreted: PHP, JavaScript
+Hybrid: Java, C#, VB.Net, Python 
 
 
+Intermidiate Approach:
+Takes it as far as it can into Machine Code, often Assembly and let's the other party finish the rest.  
+JIT: Just in time compilation. 
 
 Interpreted vs Compiled Programming Languages: What's the Difference? [^1].
 What is Machine code Video [^2].  
