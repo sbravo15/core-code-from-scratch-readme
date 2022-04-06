@@ -12,13 +12,16 @@ A programming language allows us to translate the abstract `1 & 0's / Binary` in
 #### Two types of languages 
 1. High-Level
 Ex: Java, Javascript, Python, C# and many more.
+
 Upside: Easier for us to understand the syntax and write code.
 
 Downside: It takes longer to translate into machine code.
 
 2. Low-Level
 Languages that are closer to **Machine Code** therefore easier for the computer to read. 
+
 Benefits Include: They're fast, precise control on how they want the computer to function.
+
 Ex: Machine code, Assembly Language 
 
 We need to get our Source Code converted into Machine code somehow before it can run: 
