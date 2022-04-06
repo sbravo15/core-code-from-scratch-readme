@@ -25,7 +25,7 @@ Benefits Include: They're fast, precise control on how they want the computer to
 Ex: Machine code, Assembly Language 
 
 We need to get our Source Code converted into Machine code somehow before it can run: 
-There are two ways to turn Soruce code into machine code and it's up to the language you're using 'Compiled' or 'Interpreted' language. 
+There are two ways to turn Soruce code into machine code and it's up to the language you're using `Compiled` or `Interpreted` language. 
 
 1. Compiled:
 Source Code
