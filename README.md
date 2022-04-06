@@ -1,7 +1,7 @@
 # Week 1 
 ## Week challenges (Tuesday)
 
-### Explanation About Interpreted And Compiled Programming Languages
+### 1. Explanation About Interpreted And Compiled Programming Languages
 Computers don't speak English or Spanish, they speak **Machine Code**. Machine code is a computer programming language comprising binary instructins which computers respond to directly, It's written in machine language. Therefore, a machine i.e., a computer, can execute it without any translation or conversion.
 
 So then, How do computers read the code we write in a programming language? 
@@ -65,6 +65,12 @@ Hybrid: Java, C#, VB.Net, Python
 Intermidiate Approach:
 Takes it as far as it can into Machine Code, often Assembly and let's the other party finish the rest.  
 JIT: Just in time compilation. 
+
+
+### 2. Is Java compiled or interpreted, or both?
+
+Java is an Intermidiate Hybrid approach where it's neither compiled or interpreted all at one time, it's done half and half, we compile one part of the way to what's called an intermidiate language **which takes it as far as long to machine code as it can get** while still being portable across platforms, you then distribute the `Intermidiate Language` File sending it to the people who need to run it and each person who runs it takes it to the last step to take it to machine code. JIT Compilation / Bite Code. 
+
 
 Interpreted vs Compiled Programming Languages: What's the Difference? [^1].
 What is Machine code Video [^2].  
