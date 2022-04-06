@@ -6,23 +6,20 @@ Computers don't speak English or Spanish, they speak **Machine Code**. Machine c
 
 So then, How do computers read the code we write in a programming language? 
 If we gave computers the text of the logic and instructions we want to execute with a set program, the computer would have no way to read it and execute it. 
-
-##Introducing Interpreted and Compiled Programming Languages 
+## Introducing Interpreted and Compiled Programming Languages 
 A programming language allows us to translate the abstract `1 & 0's / Binary` into something humans can understand. 
-
-
 
 
 ###Two types of languages 
 1. High-Level
-Java, Javascript, Python C#
+Java, Javascript, Python, C# and many more.
 
 2. Low-Level
 Languages that are closer to **Machine Code** therefore easier for the computer to read. 
 Benefits Include: They're fast, precise control on how they want the computer to function.
 Ex: Machine code, Assembly Language 
 
-![Difference between Low and High Level Languages](/documents/resources/HvL.png "High Vs Low Languages")
+![Difference between Low and High Level Languages](/documents/Resources/HvL.png "High Vs Low Languages")
 
 
 
