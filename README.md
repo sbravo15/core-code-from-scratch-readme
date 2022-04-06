@@ -72,6 +72,14 @@ JIT: Just in time compilation.
 Java is an Intermidiate Hybrid approach where it's neither compiled or interpreted all at one time, it's done half and half, we compile one part of the way to what's called an intermidiate language **which takes it as far as long to machine code as it can get** while still being portable across platforms, you then distribute the `Intermidiate Language` File sending it to the people who need to run it and each person who runs it takes it to the last step to take it to machine code. JIT Compilation / Bite Code. 
 
 
+### 3. Pseudocode currency converter
+1. START 
+2. BTC <--- GET FROM ('https://www.coinbase.com/price/bitcoin')
+3. USD <--- GET 
+4. BTC2USD <--- BTC * USD
+5. Print BTC2USD
+6. END
+
 Interpreted vs Compiled Programming Languages: What's the Difference? [^1].
 What is Machine code Video [^2].  
 Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages[^3].
