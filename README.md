@@ -9,7 +9,7 @@ If we gave computers the text of the logic and instructions we want to execute w
 #### Introducing Interpreted and Compiled Programming Languages 
 A programming language allows us to translate the abstract `1 & 0's / Binary` into something humans can understand. 
 
-### Two types of languages 
+#### Two types of languages 
 1. High-Level
 Ex: Java, Javascript, Python, C# and many more.
 Upside: Easier for us to understand the syntax and write code.
