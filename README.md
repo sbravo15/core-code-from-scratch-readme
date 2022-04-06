@@ -13,6 +13,7 @@ A programming language allows us to translate the abstract `1 & 0's / Binary` in
 1. High-Level
 Ex: Java, Javascript, Python, C# and many more.
 Upside: Easier for us to understand the syntax and write code.
+
 Downside: It takes longer to translate into machine code.
 
 2. Low-Level
