@@ -93,6 +93,7 @@ What is a programming language? [^4].
 
 ## Week challenges (Wednesday)
 `DOB`: 2002
+
 *2^0 = 1 
 *2^1 = 2
 *2^2 = 4
