@@ -89,3 +89,11 @@ What is a programming language? [^4].
 [^2]: https://www.youtube.com/watch?v=-XU3GbHBOKA&ab_channel=MarketingBusinessNetwork
 [^3]: https://www.youtube.com/watch?v=I1f45REi3k4&ab_channel=CodingMentors
 [^4]: https://www.youtube.com/watch?v=EGQh5SZctaE&ab_channel=Codecademy
+--- 
+
+## Week challenges (Wednesday)
+`DOB`: 2002
+
+| 2^10 | 2^11 |  2^10 |   2^9  |   2^8    | 2^7 | 2^6 | 2^5 | 2^4|  2^3 | 2^2 | 2^1 |  2^0 |   
+| -----------| ----------- |    ----------- |  ----------- |    ----------- |    ----------- |  ----------- |     ----------- |   ----------- |           ----------- | ----------- |  ----------- |         
+| 1 | 1 |  1 | 1 | 0| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
