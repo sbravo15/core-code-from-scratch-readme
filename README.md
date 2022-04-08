@@ -80,15 +80,15 @@ Java is an Intermidiate Hybrid approach where it's neither compiled or interpret
 5. Print BTC2USD
 6. END
 
-Interpreted vs Compiled Programming Languages: What's the Difference? [^1].
-What is Machine code Video [^2].  
-Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages[^3].
-What is a programming language? [^4].
+Interpreted vs Compiled Programming Languages: What's the Difference? ^1
+What is Machine code Video ^2.  
+Compiler and Interpreter: Compiled Language vs Interpreted Programming Languages ^3.
+What is a programming language? ^4.
 
-[^1]: https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
-[^2]: https://www.youtube.com/watch?v=-XU3GbHBOKA&ab_channel=MarketingBusinessNetwork
-[^3]: https://www.youtube.com/watch?v=I1f45REi3k4&ab_channel=CodingMentors
-[^4]: https://www.youtube.com/watch?v=EGQh5SZctaE&ab_channel=Codecademy
+1. https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/
+2. https://www.youtube.com/watch?v=-XU3GbHBOKA&ab_channel=MarketingBusinessNetwork
+3. https://www.youtube.com/watch?v=I1f45REi3k4&ab_channel=CodingMentors
+4. https://www.youtube.com/watch?v=EGQh5SZctaE&ab_channel=Codecademy
 --- 
 
 ## Week challenges (Wednesday)
