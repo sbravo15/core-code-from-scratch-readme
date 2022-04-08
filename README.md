@@ -2,7 +2,7 @@
 ## Week challenges (Tuesday)
 
 ### 1. Explanation About Interpreted And Compiled Programming Languages
-Computers don't speak English or Spanish, they speak **Machine Code**. Machine code is a computer programming language comprising binary instructins which computers respond to directly, It's written in machine language. Therefore, a machine i.e., a computer, can execute it without any translation or conversion.
+Computers don't speak English or Spanish, they speak **Machine Code**. Machine code is a computer programming language comprising binary instructions which computers respond to directly, It's written in machine language. Therefore, a machine i.e., a computer, can execute it without any translation or conversion.
 
 So then, How do computers read the code we write in a programming language? 
 If we gave computers the text of the logic and instructions we want to execute with a set program, the computer wouldn't have a way to read it and execute it. 
@@ -112,3 +112,8 @@ What is a programming language? ^4.
 | 1    |   1   | 1    | 1    |  1  | 0   |   1  |   0  |   0    |  1  |   0  |  
 
 Anwser= `11111010010`
+
+
+
+
+
