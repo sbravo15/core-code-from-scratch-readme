@@ -1,5 +1,5 @@
 # Week 1 
-## Week challenges (Tuesday)
+## Week 1 challenges (Tuesday)
 
 ### 1. Explanation About Interpreted And Compiled Programming Languages
 Computers don't speak English or Spanish, they speak **Machine Code**. Machine code is a computer programming language comprising binary instructions which computers respond to directly, It's written in machine language. Therefore, a machine i.e., a computer, can execute it without any translation or conversion.
@@ -91,7 +91,7 @@ What is a programming language? ^4.
 4. https://www.youtube.com/watch?v=EGQh5SZctaE&ab_channel=Codecademy
 --- 
 
-## Week challenges (Wednesday)
+## Week 1 challenges (Wednesday)
 `DOB`: 2002
 
 * 2^0 = 1 
@@ -116,11 +116,29 @@ Anwser= `11111010010`
 ###Misp Exercises:  
 
 
-## Week challenges (Thursday)
+## Week 1 challenges (Thursday)
 Feedback on the Videos and Re-search
 *Javacript Real worlds applications
 
 Really eye opening to what you can build with Javascript and use this lenguage as a tool in the modern world.
+
+# Week 2
+## Week 2 challenges (Monday)
+1. Create a Code Wars Account
+https://www.codewars.com/users/sbravo15
+
+## Week 2 challenges (Tuesday)
+Code Wars Challenges
+
+## Week 2 challenges (Wednesday)
+Code Wars Challenges
+
+## Week 2 challenges (Thursday)
+Code Wars Challenges
+
+
+# Week 3
+## Week 3 challenges (Monday)
 
 
 
