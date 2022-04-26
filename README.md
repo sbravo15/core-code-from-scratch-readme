@@ -113,6 +113,14 @@ What is a programming language? ^4.
 
 Anwser= `11111010010`
 
+###Misp Exercises:  
+
+
+## Week challenges (Thursday)
+Feedback on the Videos and Re-search
+*Javacript Real worlds applications
+
+Really eye opening to what you can build with Javascript and use this lenguage as a tool in the modern world.
 
 
 
