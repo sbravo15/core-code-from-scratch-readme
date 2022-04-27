@@ -149,19 +149,28 @@ Code Wars Challenges
 Holiday VIII - Duty Free exercise
 
 
-Twice As Old exercise
+1. Twice As Old exercise
 
 
-Valid Spacing exercise
+2. Valid Spacing exercise
 
 
-Fake Binary exercise
+3. Fake Binary exercise
 
 
 
 ## Week 2 challenges (Thursday)
 Code Wars Challenges
+1. Remove All Exclamation Marks From The End Of Sentence exercise
 
+
+2. Vowel Remover exercise
+
+
+3. Rock Paper Scissors! exercise
+
+
+4. Persistent Bugger exercise
 
 # Week 3
 ## Week 3 challenges (Monday)
