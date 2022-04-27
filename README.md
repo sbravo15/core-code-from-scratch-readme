@@ -130,7 +130,11 @@ https://www.codewars.com/users/sbravo15
 ## Week 2 challenges (Tuesday)
 Code Wars Challenges
 1. Multiply exercise `DONE`
-
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 3. ASCII Total exercise
 
