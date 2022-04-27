@@ -146,6 +146,18 @@ Code Wars Challenges
 
 ## Week 2 challenges (Wednesday)
 Code Wars Challenges
+Holiday VIII - Duty Free exercise
+
+
+Twice As Old exercise
+
+
+Valid Spacing exercise
+
+
+Fake Binary exercise
+
+
 
 ## Week 2 challenges (Thursday)
 Code Wars Challenges
