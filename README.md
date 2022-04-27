@@ -129,7 +129,7 @@ https://www.codewars.com/users/sbravo15
 
 ## Week 2 challenges (Tuesday)
 Code Wars Challenges
-1. Multiply exercise 'DONE'
+1. Multiply exercise `DONE`
 
 
 3. ASCII Total exercise
