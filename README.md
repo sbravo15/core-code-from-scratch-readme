@@ -129,6 +129,20 @@ https://www.codewars.com/users/sbravo15
 
 ## Week 2 challenges (Tuesday)
 Code Wars Challenges
+1. Multiply exercise 'DONE'
+
+
+3. ASCII Total exercise
+
+
+4. Char From ASCII Value exercise
+
+
+5. Binary Addition exercise
+
+
+6. Student's Final Grade exercise
+
 
 ## Week 2 challenges (Wednesday)
 Code Wars Challenges
