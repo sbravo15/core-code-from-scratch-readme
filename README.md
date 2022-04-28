@@ -139,12 +139,12 @@ function multiply(a, b){
 
 3. ASCII Total exercise
 ```
-function uniTotal(str) {
-  let total = 0;
-  for (let i = 0, length = str.length; i < length; i++) {
-    total += str[i].charCodeAt();
+function uniTotal (string) {
+  let total = 0; //Variable Total
+  for (let i = 0, length = string.length; i<length; i++){
+    total += string[i].charCodeAt(); //Suma Charcode al total (Loopea el string y va sumando)
   }
-  return total;
+  return total; //Retorna la variable total (Sum of the Chars)
 }
 ```
 
