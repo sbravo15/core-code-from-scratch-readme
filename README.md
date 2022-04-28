@@ -138,6 +138,15 @@ function multiply(a, b){
 ```
 
 3. ASCII Total exercise
+```
+function uniTotal(str) {
+  let total = 0;
+  for (let i = 0, length = str.length; i < length; i++) {
+    total += str[i].charCodeAt();
+  }
+  return total;
+}
+```
 
 
 4. Char From ASCII Value exercise
