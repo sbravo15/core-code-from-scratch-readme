@@ -151,6 +151,13 @@ function uniTotal (string) {
 
 4. Char From ASCII Value exercise
 
+```
+function getChar(c){
+  let char = String.fromCharCode(c);
+  return char
+}
+```
+
 
 5. Binary Addition exercise
 
