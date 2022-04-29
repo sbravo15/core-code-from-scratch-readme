@@ -158,9 +158,15 @@ function getChar(c){
 }
 ```
 
+<a href="https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript">5. Binary Addition exercise</a>   `DONE`
 
-5. Binary Addition exercise
-
+```
+function addBinary(a,b) {
+  let sum = a+b;
+  let res = sum.toString(2); //to string(2) turns it into a binary number
+  return res
+}
+```
 
 6. Student's Final Grade exercise
 
