@@ -137,7 +137,8 @@ function multiply(a, b){
 }
 ```
 
-3. ASCII Total exercise
+<a href="https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/javascript">3. ASCII Total exercise</a>   `DONE`
+
 ```
 function uniTotal (string) {
   let total = 0; //Variable Total
@@ -148,9 +149,7 @@ function uniTotal (string) {
 }
 ```
 
-
-4. Char From ASCII Value exercise
-
+<a href="https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript">4. Char From ASCII Value exercise</a>   `DONE`
 ```
 function getChar(c){
   let char = String.fromCharCode(c);
