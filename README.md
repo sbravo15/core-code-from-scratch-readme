@@ -167,7 +167,26 @@ function addBinary(a,b) {
 }
 ```
 
-6. Student's Final Grade exercise
+<a href="https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript">6. Student's Final Grade exercise</a>   `DONE`
+
+
+```
+function finalGrade (exam, projects) {
+  // final grade
+  if (exam > 90 || projects > 10){
+    let grade = 100
+    return grade
+  } else if (exam > 75 && projects>=5){
+    let grade = 90
+    return grade
+  } else if (exam>50 && projects>=2){
+    let grade = 75
+    return grade
+  } else{
+    return 0
+  }
+}
+```
 
 
 ## Week 2 challenges (Wednesday)
