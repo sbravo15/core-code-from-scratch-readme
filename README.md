@@ -229,6 +229,7 @@ Code Wars Challenges
 
 # Week 3
 ## Week 3 challenges (Monday)
+Code Wars Challenges
 
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e00/desc">1. Who Likes It?</a>   `n/a`
 
@@ -240,6 +241,7 @@ Code Wars Challenges
 
 
 ## Week 3 challenges (Tuesday)
+Code Wars Challenges
 
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e03/desc">1. Simple Pig Latin</a>.   `n/a`
 
@@ -251,6 +253,7 @@ Code Wars Challenges
 
 
 ## Week 3 challenges (Wednesday)
+Code Wars Challenges
 
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e06/desc">1. Valid Parentheses</a>    `n/a`
 
@@ -260,6 +263,7 @@ Code Wars Challenges
 
 
 ## Week 3 challenges (Thursday)
+Code Wars Challenges
 
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e09/desc">1. Fold An Array</a>    `n/a`
 
