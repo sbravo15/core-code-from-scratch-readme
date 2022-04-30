@@ -194,34 +194,64 @@ function finalGrade (exam, projects) {
 
 ## Week 2 challenges (Wednesday)
 Code Wars Challenges
-Holiday VIII - Duty Free exercise
+<a href="https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript">1. Holiday VIII - Duty Free exercise</a>   `n/a`
 
 
-1. Twice As Old exercise
+<a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `n/a`
 
 
-2. Valid Spacing exercise
+<a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript">3. Valid Spacing exercise</a>   `n/a`
 
 
-3. Fake Binary exercise
+<a href="https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript">4. Fake Binary exercise</a>   `n/a`
+
+
 
 
 
 ## Week 2 challenges (Thursday)
 Code Wars Challenges
-1. Remove All Exclamation Marks From The End Of Sentence exercise
+<a href="https://www.codewars.com/kata/57faece99610ced690000165/train/javascript">1. Remove All Exclamation Marks From The End Of Sentence exercise</a>   `n/a`
 
 
-2. Vowel Remover exercise
+<a href="https://www.codewars.com/kata/5547929140907378f9000039/train/javascript">2. Vowel Remover exercise</a>   `n/a`
 
 
-3. Rock Paper Scissors! exercise
+<a href="https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript">3. Rock Paper Scissors! exercise</a>   `n/a`
+
+<a href="https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript">4. Persistent Bugger exercise</a>   `n/a`
 
 
-4. Persistent Bugger exercise
 
 # Week 3
 ## Week 3 challenges (Monday)
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e00/desc">1. Who Likes It?</a>   `n/a`
+
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e01/desc">2. Bit Counting</a>    `n/a`   
+
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e02/desc">3. Your Order, Please</a>    `n/a`   
+
+
+## Week 3 challenges (Tuesday)
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e03/desc">1. Simple Pig Latin</a>.   `n/a`
+
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e04/desc">2. Counting Duplicates</a>    `n/a`
+
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e05/desc">3. Decode The Morse Code</a>    `n/a`
+
+
+## Week 3 challenges (Wednesday)
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e06/desc">1. Valid Parentheses</a>    `n/a`
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e07/desc">2. Convert String To Camel Case</a>    `n/a`
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e08/desc">3. Unique In Order</a>    `n/a`
+
 
 
 
