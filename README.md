@@ -194,6 +194,8 @@ function finalGrade (exam, projects) {
 
 ## Week 2 challenges (Wednesday)
 Code Wars Challenges
+
+
 <a href="https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript">1. Holiday VIII - Duty Free exercise</a>   `n/a`
 
 
@@ -211,6 +213,8 @@ Code Wars Challenges
 
 ## Week 2 challenges (Thursday)
 Code Wars Challenges
+
+
 <a href="https://www.codewars.com/kata/57faece99610ced690000165/train/javascript">1. Remove All Exclamation Marks From The End Of Sentence exercise</a>   `n/a`
 
 
@@ -236,6 +240,7 @@ Code Wars Challenges
 
 
 ## Week 3 challenges (Tuesday)
+
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e03/desc">1. Simple Pig Latin</a>.   `n/a`
 
 
@@ -246,6 +251,7 @@ Code Wars Challenges
 
 
 ## Week 3 challenges (Wednesday)
+
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e06/desc">1. Valid Parentheses</a>    `n/a`
 
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e07/desc">2. Convert String To Camel Case</a>    `n/a`
@@ -253,6 +259,15 @@ Code Wars Challenges
 <a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e08/desc">3. Unique In Order</a>    `n/a`
 
 
+## Week 3 challenges (Thursday)
 
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e09/desc">1. Fold An Array</a>    `n/a`
+
+
+<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e10/desc">2. Encrypt This!</a>    `n/a`
+
+
+
+3. ✨Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand. `n/a`
 
 
