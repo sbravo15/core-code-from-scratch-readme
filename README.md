@@ -197,7 +197,22 @@ Code Wars Challenges
 
 
 <a href="https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript">1. Holiday VIII - Duty Free exercise</a>   `n/a`
+```
+function dutyFree(normPrice, discount, hol) {
+  /* 
+    what would be the price of a bottle with the discount?
 
+    normalPrice  --- 100%
+    dicountPrice --- discount%
+  */
+  let dicountPrice = (normPrice * discount) / 100;
+  /* How many bottles at the discount price will cover the hol cost? */
+  let bottlesWithDicountPriceToCoverHoliday = hol / dicountPrice;
+  /* Please return an integer. Round down. */
+  let roundedResult = Math.floor(bottlesWithDicountPriceToCoverHoliday);
+  return roundedResult;
+}
+```
 
 <a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `n/a`
 
