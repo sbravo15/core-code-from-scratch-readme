@@ -214,7 +214,15 @@ function dutyFree(normPrice, discount, hol) {
 ```
 
 <a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `n/a`
-
+```
+function twiceAsOld(dadYearsOld, sonYearsOld) {
+  // your code here
+  let xson = sonYearsOld*2; //son's age *2 
+  let res = dadYearsOld-xson; // Dad's age Minus the Age of Son *2
+  let result = Math.abs(res);  //Using a Math method to return only positive numbers
+  return result
+}
+```
 
 <a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript">3. Valid Spacing exercise</a>   `n/a`
 
