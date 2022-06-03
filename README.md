@@ -213,14 +213,14 @@ function dutyFree(normPrice, discount, hol) {
 }
 ```
 
-<a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `DONE`
+<a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `DONE` `WH`
 ```
 function twiceAsOld(dadYearsOld, sonYearsOld) {
   return Math.abs(((sonYearsOld*2)-(dadYearsOld)))
 }
 ```
 
-<a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript">3. Valid Spacing exercise</a>   `DONE`
+<a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript">3. Valid Spacing exercise</a>   `DONE` `WH`
 ```
 function validSpacing(s) {
   
@@ -249,7 +249,21 @@ if (s.charAt(0) === ' ' || s.charAt(s.length - 1) === ' ') {
  
 ```
 
-<a href="https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript">4. Fake Binary exercise</a>   `n/a`
+<a href="https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript">4. Fake Binary exercise</a>   `DONE` `WH`
+```
+function fakeBin(x){
+  let resultDigits = "";
+  for (let i=0; i< x.length; i++){
+    if(parseInt(x[i]) < 5){
+       resultDigits = resultDigits +"0";
+       }else {
+         resultDigits = resultDigits + "1"; 
+       }
+  }
+  return resultDigits; 
+}  
+```
+
 
 
 
