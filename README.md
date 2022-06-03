@@ -213,15 +213,41 @@ function dutyFree(normPrice, discount, hol) {
 }
 ```
 
-<a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `n/a`
+<a href="https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript">2. Twice As Old exercise</a>   `DONE`
 ```
 function twiceAsOld(dadYearsOld, sonYearsOld) {
   return Math.abs(((sonYearsOld*2)-(dadYearsOld)))
 }
 ```
 
-<a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript">3. Valid Spacing exercise</a>   `n/a`
+<a href="https://www.codewars.com/kata/5f77d62851f6bc0033616bd8/train/javascript">3. Valid Spacing exercise</a>   `DONE`
+```
+function validSpacing(s) {
+  
+// Verifica espacios vacios al Principio y al final del string  
 
+if (s.charAt(0) === ' ' || s.charAt(s.length - 1) === ' ') { 
+     return false;
+  }
+ 
+ //Loopea el string : Si el char es espacio vacio y le suma un espacio y el otro es vacio == False 
+ 
+  for (let i = 0; i < s.length; i++) {
+    if(s.charAt(i) === ' '){ // es el caracter que estamos viendo igual a un espacio?
+      if(i != 0 && s.charAt(i-1) === ' ') {
+        return false;
+      }
+      if (i != (s.length - 1) && s.charAt(i+1) === ' ') {
+        return false;
+      }
+    }
+    // ....
+  }
+  
+  return true; // fuera la verificacion
+}
+ 
+```
 
 <a href="https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript">4. Fake Binary exercise</a>   `n/a`
 
