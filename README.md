@@ -273,16 +273,16 @@ function fakeBin(x){
 Code Wars Challenges
 
 
-<a href="https://www.codewars.com/kata/57faece99610ced690000165/train/javascript">1. Remove All Exclamation Marks From The End Of Sentence exercise</a>   `n/a`
-
-
-<a href="https://www.codewars.com/kata/5547929140907378f9000039/train/javascript">2. Vowel Remover exercise</a>   `DONE`
+<a href="https://www.codewars.com/kata/57faece99610ced690000165/train/javascript">1. Remove All Exclamation Marks From The End Of Sentence exercise</a>   `DONE`
 ```
 function remove (string) {  
   //Implementation (regex)
  return string.replace(/!+$/, "");
  
 ```
+
+<a href="https://www.codewars.com/kata/5547929140907378f9000039/train/javascript">2. Vowel Remover exercise</a>   `N/A`
+
 
 
 <a href="https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript">3. Rock Paper Scissors! exercise</a>   `DONE`
