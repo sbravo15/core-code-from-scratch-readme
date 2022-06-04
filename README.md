@@ -285,8 +285,29 @@ function remove (string) {
 ```
 
 
-<a href="https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript">3. Rock Paper Scissors! exercise</a>   `n/a`
-
+<a href="https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript">3. Rock Paper Scissors! exercise</a>   `DONE`
+```
+const rps = (p1, p2) => { 
+  //rock & rock // p & p // s & s 
+  // rock < paper // paper < scissor //scissor < rock // 
+  
+if (p1 === "rock" && p2 === "scissors"){
+  return "Player 1 won!";
+}else if(p2 ==="rock" && p1 === "scissors"){
+  return "Player 2 won!";
+}else if(p1 === "paper" && p2 === "scissors"){
+    return "Player 2 won!";
+}else if(p2 === "paper" && p1 === "scissors"){
+    return "Player 1 won!";
+}else if( p1 === "rock" && p2 === "paper"){
+    return "Player 2 won!";
+}else if( p1 === "paper" && p2 === "rock"){
+    return "Player 1 won!";
+}else{
+  return "Draw!"; 
+}
+};
+```
 <a href="https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/javascript">4. Persistent Bugger exercise</a>   `n/a`
 
 
