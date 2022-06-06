@@ -320,44 +320,44 @@ if (p1 === "rock" && p2 === "scissors"){
 ## Week 3 challenges (Monday)
 Code Wars Challenges
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e00/desc">1. Who Likes It?</a>   `n/a`
+<a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript">1. Who Likes It?</a>   `n/a`
 
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e01/desc">2. Bit Counting</a>    `n/a`   
+<a href="https://www.codewars.com/kata/526571aae218b8ee490006f4/train/javascript">2. Bit Counting</a>    `n/a`   
 
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e02/desc">3. Your Order, Please</a>    `n/a`   
+<a href="https://www.codewars.com/kata/55c45be3b2079eccff00010f/train/javascript">3. Your Order, Please</a>    `n/a`   
 
 
 ## Week 3 challenges (Tuesday)
 Code Wars Challenges
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e03/desc">1. Simple Pig Latin</a>.   `n/a`
+<a href="https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/javascript">1. Simple Pig Latin</a>.   `n/a`
 
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e04/desc">2. Counting Duplicates</a>    `n/a`
+<a href="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/javascript">2. Counting Duplicates</a>    `n/a`
 
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e05/desc">3. Decode The Morse Code</a>    `n/a`
+<a href="https://www.codewars.com/kata/54b724efac3d5402db00065e/train/javascript">3. Decode The Morse Code</a>    `n/a`
 
 
 ## Week 3 challenges (Wednesday)
 Code Wars Challenges
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e06/desc">1. Valid Parentheses</a>    `n/a`
+<a href="https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript">1. Valid Parentheses</a>    `n/a`
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e07/desc">2. Convert String To Camel Case</a>    `n/a`
+<a href="https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript">2. Convert String To Camel Case</a>    `n/a`
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e08/desc">3. Unique In Order</a>    `n/a`
+<a href="https://www.codewars.com/kata/54e6533c92449cc251001667/train/javascript">3. Unique In Order</a>    `n/a`
 
 
 ## Week 3 challenges (Thursday)
 Code Wars Challenges
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e09/desc">1. Fold An Array</a>    `n/a`
+<a href="https://www.codewars.com/kata/57ea70aa5500adfe8a000110/train/javascript">1. Fold An Array</a>    `n/a`
 
 
-<a href="/corecodeio/devguide-from-scratch-2022-02/blob/main/src/technologies/2022/week03/exercises/e10/desc">2. Encrypt This!</a>    `n/a`
+<a href="https://github.com/corecodeio/devguide-from-scratch-2022-02/tree/main/src/technologies/2022/week03/exercises/e10/desc">2. Encrypt This!</a>    `n/a`
 
 
 
