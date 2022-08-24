@@ -131,6 +131,11 @@ It was really interesting video to watch, gave me a perspective on how javascrip
 https://www.codewars.com/users/sbravo15
 
 ## Week 2 challenges (Tuesday)
+### Week 2 Subtopics
+- Loops
+ - While
+ - For
+
 Code Wars Challenges
 
 <a href="https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript">1. Multiply exercise</a>   `DONE`
