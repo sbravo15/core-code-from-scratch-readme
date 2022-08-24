@@ -126,15 +126,16 @@ Feedback on the Videos and Re-search
 It was really interesting video to watch, gave me a perspective on how javascript has evolved over the las two decades and a half since it's release in Dec '95 Brendon Ike's, being banned by MS in the Internet Explorer, Ecma Standarizing JS, touch on the Tech Bubble of march 2000s, Jquery, sep 8 Chrome V8engine, May 2009 Node Js "Launch Web applications at scale", ES 3.1 == ES5, ES5 introduced (JSON SUPPORT, Functional array and object methods, stric mode, accessors many other), Single Page application frameworks Oct 2010: Backbone & Angular, similar problem different approaches. backbone was light weight Dom updates with imperative programming style, Angular Js more inclusive and use declarative programming, 2015 React Js included angular js with declarative UI but improve them with uni-directional data flow immutability and use of the virtual DOM. The creator of the video is Bullish on javascript, and has learned to always bet on javascript. 
 
 # Week 2
+### Week 2 Subtopics
+- Loops
+   * While
+   * For
+
 ## Week 2 challenges (Monday)
 1. Create a Code Wars Account
 https://www.codewars.com/users/sbravo15
 
 ## Week 2 challenges (Tuesday)
-### Week 2 Subtopics
-- Loops
- - While
- - For
 
 Code Wars Challenges
 
