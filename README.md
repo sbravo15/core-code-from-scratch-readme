@@ -130,6 +130,21 @@ It was really interesting video to watch, gave me a perspective on how javascrip
 - Loops
    * While
    * For
+- Conditionals 
+- Ternary Operator
+- Functions
+   * Difference between arguments and parameters
+   * Default parameters
+   * Arguments array
+- scopes 
+- var, let, const
+- Operators
+   * TypesOf
+- Data Structure 
+   * Array 
+   * List 
+   * Stack
+
 
 ## Week 2 challenges (Monday)
 1. Create a Code Wars Account
