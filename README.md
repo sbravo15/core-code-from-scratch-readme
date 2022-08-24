@@ -148,7 +148,7 @@ It was really interesting video to watch, gave me a perspective on how javascrip
 
 ## Week 2 challenges (Monday)
 1. Create a Code Wars Account
-https://www.codewars.com/users/sbravo15
+https://www.codewars.com/users/sbravo15 `DONE`
 
 ## Week 2 challenges (Tuesday)
 
