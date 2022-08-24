@@ -401,12 +401,23 @@ Code Wars Challenges
 - Array Filter
 - Q&A
 
-## Week 4 challenges (Monday) 💻
-1. Learn about for of loop
+## Week 4 challenges (Monday) 
+1. Learn about [for loop]([https://www.tutorialsandyou.com/markdown/ ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)'for loop')
   * for of video
   * for of examples
 2. Follow this JavaScript Array Filter video
 3. Follow this JavaScript Array Reduce video
 4. Follow this JavaScript Array Map video
 
-## Week 4 challenges (Monday)
+## Week 4 challenges (Tuesday)
+1. Watch this Regular Expressions (RegEx) video
+2. Read Regular Expressions - MDN documentation
+3. Learn about replace in this video
+4. Read replace - MDN documentation
+5. Check Regexr, a tool to test your regular expressions
+6. A complete Regular Expressions video
+
+
+## Week 4 challenges (Wednesday)
+1. Simple Validation Of A Username exercise
+2. Get Number From String exercise
