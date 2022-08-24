@@ -403,7 +403,9 @@ Code Wars Challenges
 
 ## Week 4 challenges (Monday) 
 1. Learn about <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of">for loop<a> 
-  * for of examples
+    *  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of](https://www.youtube.com/watch?v=c5a4sNshBA4&ab_channel=codeSTACKr)">for of<a> video 
+    * <a href="https://www.w3schools.com/js/js_loop_forof.asp">for of<a> examples
+  
 2. Follow this JavaScript Array Filter video
 3. Follow this JavaScript Array Reduce video
 4. Follow this JavaScript Array Map video
