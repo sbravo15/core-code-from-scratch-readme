@@ -402,8 +402,7 @@ Code Wars Challenges
 - Q&A
 
 ## Week 4 challenges (Monday) 
-1. Learn about [for loop]([https://www.tutorialsandyou.com/markdown/ ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)'for loop')
-  * for of video
+1. Learn about <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of">for loop<a> 
   * for of examples
 2. Follow this JavaScript Array Filter video
 3. Follow this JavaScript Array Reduce video
