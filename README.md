@@ -407,8 +407,8 @@ Code Wars Challenges
     * <a href="https://www.w3schools.com/js/js_loop_forof.asp">for of<a> examples
   
 2. Follow this <a href="https://www.youtube.com/watch?v=4_iT6EGkQfk&ab_channel=ProgrammingwithMosh">JavaScript Array Filter<a> video
-3. Follow this <a href"https://www.youtube.com/watch?v=g1C40tDP0Bk&ab_channel=ProgrammingwithMosh">JavaScript Array Reduce<a> video
-4. Follow this <a href"https://www.youtube.com/watch?v=G3BS3sh3D8Q&ab_channel=ProgrammingwithMosh">JavaScript Array Map<a> video
+3. Follow this <a href="https://www.youtube.com/watch?v=4_iT6EGkQfk&ab_channel=ProgrammingwithMosh">JavaScript Array Reducer<a> video
+4. Follow this <a href="https://www.youtube.com/watch?v=4_iT6EGkQfk&ab_channel=ProgrammingwithMosh">JavaScript Array Map<a> video
 
 ## Week 4 challenges (Tuesday)
 1. Watch this Regular Expressions (RegEx) video
