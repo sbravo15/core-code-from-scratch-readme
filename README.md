@@ -338,6 +338,16 @@ if (p1 === "rock" && p2 === "scissors"){
 
 
 # Week 3
+### Week 3 Subtopics
+- Object
+- DOM API
+- ES6 features
+   * Template strings
+   * Arrow functions
+   * Rest/Spread operator
+   * Destructuring assigment
+- Array Map
+
 ## Week 3 challenges (Monday)
 Code Wars Challenges
 
@@ -385,4 +395,5 @@ Code Wars Challenges
 3. ✨Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand. `n/a`
 
 # Week 4
+
 ## Week 4 challenges (Monday)
