@@ -395,5 +395,18 @@ Code Wars Challenges
 3. ✨Complete your 1st Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand. `n/a`
 
 # Week 4
+### Week 4 Subtopics
+- Regular expressions
+- Array Reduce
+- Array Filter
+- Q&A
+
+## Week 4 challenges (Monday) 💻
+1. Learn about for of loop
+  * for of video
+  * for of examples
+2. Follow this JavaScript Array Filter video
+3. Follow this JavaScript Array Reduce video
+4. Follow this JavaScript Array Map video
 
 ## Week 4 challenges (Monday)
