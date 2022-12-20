@@ -411,7 +411,7 @@ Code Wars Challenges
 4. Follow this <a href="https://www.youtube.com/watch?v=G3BS3sh3D8Q&ab_channel=ProgrammingwithMosh">JavaScript Array Map<a> video
 
 ## Week 4 challenges (Tuesday)
-1. Watch this Regular Expressions (RegEx) video
+1. Watch this <a href="https://www.youtube.com/watch?v=sXQxhojSdZM">Regular Expressions (RegEx)<a> video 
 2. Read Regular Expressions - MDN documentation
 3. Learn about replace in this video
 4. Read replace - MDN documentation
