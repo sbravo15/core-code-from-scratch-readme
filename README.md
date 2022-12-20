@@ -429,5 +429,7 @@ Code Wars Challenges
 3. ✨Complete your 2nd Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
 
 1.<a href="https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4">Regular Expressions In Javascript Reading<a>
+  
+  
 2.<a href="https://blog.alexdevero.com/regular-expressions-javascript/">Methods That Use Regular Expressions In Javascript<a>
 
