@@ -420,8 +420,8 @@ Code Wars Challenges
 
 
 ## Week 4 challenges (Wednesday)
-1. Simple Validation Of A Username exercise
-2. Get Number From String exercise
+1.<a href="https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/train/javascript">Simple Calidation of a Username</a>exercise
+2.<a href="https://www.codewars.com/kata/57a37f3cbb99449513000cd8/train/javascript">Get Number from String</a>exercise
   
 ## Week challenges (Thursday) 💻
 <a href="https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript">1. String Cleaning exercise</a>    `n/a`
