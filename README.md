@@ -424,6 +424,8 @@ Code Wars Challenges
 2. Get Number From String exercise
   
 ## Week challenges (Thursday) 💻
+<a href="https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript">1. String Cleaning exercise</a>    `n/a`
+  
 1. String Cleaning exercise
 2. Password Validation exercise
 3. ✨Complete your 2nd Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
