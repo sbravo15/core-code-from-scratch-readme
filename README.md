@@ -425,7 +425,10 @@ Code Wars Challenges
 <a href="https://www.codewars.com/kata/57a37f3cbb99449513000cd8/train/javascript">2. Get Number from String</a> exercise `n/a`
   
 ## Week challenges (Thursday) 💻
-<a href="https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript">1. String Cleaning exercise</a>    `n/a`
+1.<a href="https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript">String Cleaning exercise</a>    `n/a`
+  
+2.<a href="https://www.codewars.com/kata/52e1476c8147a7547a000811/train/javascript">Password Validation exercise</a>    `n/a`
+ 
   
 1. String Cleaning exercise
 2. Password Validation exercise
