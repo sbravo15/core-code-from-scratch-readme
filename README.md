@@ -422,3 +422,12 @@ Code Wars Challenges
 ## Week 4 challenges (Wednesday)
 1. Simple Validation Of A Username exercise
 2. Get Number From String exercise
+  
+## Week challenges (Thursday) 💻
+1. String Cleaning exercise
+2. Password Validation exercise
+3. ✨Complete your 2nd Core Challenge. This is one of the requirements for the certification, where you'll boost your dev professional-brand.
+
+1.<a href="https://blog.bitsrc.io/a-beginners-guide-to-regular-expressions-regex-in-javascript-9c58feb27eb4">Regular Expressions In Javascript Reading<a>
+2.<a href="https://blog.alexdevero.com/regular-expressions-javascript/">Methods That Use Regular Expressions In Javascript<a>
+
