@@ -25,7 +25,7 @@ Benefits Include: They're fast, precise control on how they want the computer to
 Ex: Machine code, Assembly Language 
 
 We need to get our Source Code converted into Machine code somehow before it can run: 
-There are two ways to turn Soruce code into machine code and it's up to the language you're using `Compiled` or `Interpreted` language. 
+There are two ways to turn Source code into machine code and it's up to the language you're using `Compiled` or `Interpreted` language. 
 
 1. Compiled:
 Source Code
@@ -36,7 +36,7 @@ Executable File
 
 2. Interpreted
 Source Code
-Interpreter Program (turns it into machiine code on the fly, line by line, on the spot)
+Interpreter Program (turns it into machine code on the fly, line by line, on the spot)
 Processes on the spot (Not saved as a another file)
 Ex: Javascript interpreted into the web browser 
 
